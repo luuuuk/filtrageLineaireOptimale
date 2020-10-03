@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2020-04-21 23:35:17 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="480pt" height="167pt"
+	viewBox="-838 1245 7605 2647">
+<g fill="none">
+<!-- Circle -->
+<circle cx="830" cy="2184" r="225" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polygon points=" 2925,2475 4639,2475 4639,3555 2925,3555" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5375" cy="2994" r="225" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 845,1890 800,1890 812,1983 833,1983z"/>
+</clipPath>
+</defs>
+<polyline points=" 822,1722 822,1972" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 822,1972 -->
+<polygon points=" 800,1890 822,1950 845,1890 800,1890"
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 530,2140 530,2185 623,2173 623,2152z"/>
+</clipPath>
+</defs>
+<polyline points=" 182,2162 612,2162" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 612,2162 -->
+<polygon points=" 530,2185 590,2162 530,2140 530,2185"
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 5430,2637 5400,2757 5370,2637 5390,2801 5411,2801z"/>
+</clipPath>
+</defs>
+<polyline points=" 1035,2160 5400,2160 5400,2790" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 5400,2790 -->
+<polyline points=" 5430,2637 5400,2757 5370,2637"
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 2772,2940 2892,2970 2772,3000 2936,2981 2936,2960z"/>
+</clipPath>
+</defs>
+<polyline points=" 135,2970 2925,2970" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 2925,2970 -->
+<polyline points=" 2772,2940 2892,2970 2772,3000"
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp4">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 2772,2940 2892,2970 2772,3000 2936,2981 2936,2960z"/>
+</clipPath>
+</defs>
+<polyline points=" 5625,2970 6165,2970" clip-path="url(#cp4)"
+	stroke="#000000" stroke-width="15px" stroke-linejoin="bevel"/>
+<!-- Forward arrow to point 0,0 -->
+<polyline points=""
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp5">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 2772,2940 2892,2970 2772,3000 2936,2981 2936,2960z"/>
+</clipPath>
+</defs>
+<polyline points=" 4635,2970 5175,2970" clip-path="url(#cp5)"
+	stroke="#000000" stroke-width="15px" stroke-linejoin="bevel"/>
+<!-- Forward arrow to point 0,0 -->
+<polyline points=""
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="760" y="2270" fill="#000000" font-family="Times,Symbol" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">&#931;</text>
+<!-- Text -->
+<text xml:space="preserve" x="3060" y="3150" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">Filtre Adaptatif</text>
+<!-- Text -->
+<text xml:space="preserve" x="-803" y="3122" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">maternel</text>
+<!-- Text -->
+<text xml:space="preserve" x="-810" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">ECG</text>
+<!-- Text -->
+<text xml:space="preserve" x="-823" y="2385" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">foetus</text>
+<!-- Text -->
+<text xml:space="preserve" x="-810" y="2160" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">ECG</text>
+<!-- Text -->
+<text xml:space="preserve" x="412" y="1592" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">maternel</text>
+<!-- Text -->
+<text xml:space="preserve" x="405" y="1395" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">ECG</text>
+<!-- Text -->
+<text xml:space="preserve" x="5305" y="3080" fill="#000000" font-family="Times,Symbol" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">&#931;</text>
+<!-- Text -->
+<text xml:space="preserve" x="902" y="1942" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">+</text>
+<!-- Text -->
+<text xml:space="preserve" x="452" y="2352" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">+</text>
+<!-- Text -->
+<text xml:space="preserve" x="4995" y="2115" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">x</text>
+<!-- Text -->
+<text xml:space="preserve" x="5175" y="2745" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">+</text>
+<!-- Text -->
+<text xml:space="preserve" x="1172" y="2102" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">x = s + v</text>
+<!-- Text -->
+<text xml:space="preserve" x="542" y="1837" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">v</text>
+<!-- Text -->
+<text xml:space="preserve" x="6330" y="3060" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">e= s</text>
+<!-- Text -->
+<text xml:space="preserve" x="6530" y="3015" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">^</text>
+<!-- Text -->
+<text xml:space="preserve" x="4770" y="2790" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">^</text>
+<!-- Text -->
+<text xml:space="preserve" x="4760" y="2875" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">v</text>
+<!-- Text -->
+<text xml:space="preserve" x="180" y="3240" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">Reference : electrode thoracique</text>
+<!-- Text -->
+<text xml:space="preserve" x="405" y="2070" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">s</text>
+<!-- Text -->
+<text xml:space="preserve" x="1170" y="2385" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">Voie signal : electrode abdominale</text>
+<!-- Text -->
+<text xml:space="preserve" x="1125" y="2880" fill="#000000" font-family="Times" font-style="italic" font-weight="bold" font-size="168" text-anchor="start">y = v'</text>
+<!-- Text -->
+<text xml:space="preserve" x="4995" y="3150" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="168" text-anchor="start">-</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp6">
+	<path clip-rule="evenodd" d="M -838,1245 H 6767 V 3892 H -838 z
+		M 4281,2337 4387,2273 4323,2379 4425,2250 4410,2235z"/>
+</clipPath>
+</defs>
+<polyline points=" 5850,2970 5850,3870 2790,3870 4410,2250" clip-path="url(#cp6)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 4410,2250 -->
+<polyline points=" 4281,2337 4387,2273 4323,2379"
+	stroke="#000000" stroke-width="15px" stroke-miterlimit="8"/>
+</g>
+</svg>
